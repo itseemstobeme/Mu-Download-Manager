@@ -1,0 +1,30 @@
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\MU (Download Manager).exe.config
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\MU (Download Manager).exe
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\MU (Download Manager).pdb
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU (Download Manager).csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU__Download_Manager_.Properties.Resources.resources
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU (Download Manager).csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU (Download Manager).csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU (Download Manager).exe
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU (Download Manager).pdb
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU__Download_Manager_.MainWindow.resources
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU__Download_Manager_.DownloadWindow.resources
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\AltoHttp.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\obj\Debug\MU (Download Manager).csproj.CopyComplete
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\MySql.Data.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\Zstandard.Net.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\System.Memory.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\System.Buffers.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\MySql.Data.xml
+C:\Users\Acer\source\repos\MU (Download Manager)\MU (Download Manager)\bin\Debug\MySql.Data.EntityFramework.xml
